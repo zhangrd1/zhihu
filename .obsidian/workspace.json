@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a54be81a2e5ebec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "渲染引擎/attachment/UnityArchitecture.pdf"
+              }
+            }
           }
         ]
       }
@@ -148,8 +158,17 @@
   },
   "active": "c68c5820c0e30c45",
   "lastOpenFiles": [
-    "渲染引擎.md",
+    "渲染引擎/pic/Pasted image 20240819220954.png",
+    "渲染引擎/pic/Pasted image 20240819220228.png",
+    "渲染引擎/pic/Pasted image 20240819215612.png",
+    "渲染引擎/attachment/UnityArchitecture.pdf",
     "渲染引擎/UE VS Unity.md",
+    "渲染引擎/pic/Pasted image 20240819104207.png",
+    "渲染引擎/pic/Pasted image 20240819104134.png",
+    "渲染引擎/pic/Pasted image 20240819103548.png",
+    "渲染引擎/pic",
+    "渲染引擎/attachment",
+    "渲染引擎.md",
     "渲染引擎",
     "欢迎.md"
   ]
