@@ -4,8 +4,27 @@
     "type": "split",
     "children": [
       {
+        "id": "c177e0895f6c1f30",
+        "type": "tabs",
+        "dimension": 9.025270758122744,
+        "children": [
+          {
+            "id": "b9effff51720bf3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "渲染引擎/渲染架构对比.md"
+              }
+            },
+            "group": "4e9a4dfdf6ee4598"
+          }
+        ]
+      },
+      {
         "id": "90576d118c812772",
         "type": "tabs",
+        "dimension": 47.42779783393502,
         "children": [
           {
             "id": "c68c5820c0e30c45",
@@ -17,8 +36,16 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
+            },
+            "group": "4e9a4dfdf6ee4598"
+          }
+        ]
+      },
+      {
+        "id": "352e73b4e1fd9c19",
+        "type": "tabs",
+        "dimension": 43.54693140794224,
+        "children": [
           {
             "id": "4a54be81a2e5ebec",
             "type": "leaf",
@@ -158,14 +185,18 @@
   },
   "active": "c68c5820c0e30c45",
   "lastOpenFiles": [
+    "渲染引擎/attachment/UnityArchitecture.pdf",
+    "渲染引擎/渲染架构对比.md",
+    "渲染引擎/pic/Pasted image 20240821002535.png",
+    "渲染引擎/pic/Pasted image 20240820234259.png",
+    "渲染引擎/pic/Pasted image 20240820233834.png",
+    "渲染引擎/pic/Pasted image 20240820230849.png",
+    "渲染引擎/pic/Pasted image 20240820230532.png",
     "渲染引擎/pic/Pasted image 20240819220954.png",
     "渲染引擎/pic/Pasted image 20240819220228.png",
     "渲染引擎/pic/Pasted image 20240819215612.png",
-    "渲染引擎/attachment/UnityArchitecture.pdf",
-    "渲染引擎/渲染架构对比.md",
     "渲染引擎/pic/Pasted image 20240819104207.png",
     "渲染引擎/pic/Pasted image 20240819104134.png",
-    "渲染引擎/pic/Pasted image 20240819103548.png",
     "渲染引擎/pic",
     "渲染引擎/attachment",
     "渲染引擎.md",
