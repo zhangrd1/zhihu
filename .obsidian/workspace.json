@@ -6,7 +6,7 @@
       {
         "id": "c177e0895f6c1f30",
         "type": "tabs",
-        "dimension": 9.025270758122744,
+        "dimension": 14.684287812041116,
         "children": [
           {
             "id": "b9effff51720bf3d",
@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/渲染架构对比.md"
+                "file": "Unity/Importer.md"
               }
             },
             "group": "4e9a4dfdf6ee4598"
@@ -24,7 +24,7 @@
       {
         "id": "90576d118c812772",
         "type": "tabs",
-        "dimension": 47.42779783393502,
+        "dimension": 46.98972099853157,
         "children": [
           {
             "id": "c68c5820c0e30c45",
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/渲染架构对比.md",
+                "file": "Unity/Importer.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
       {
         "id": "352e73b4e1fd9c19",
         "type": "tabs",
-        "dimension": 43.54693140794224,
+        "dimension": 38.32599118942731,
         "children": [
           {
             "id": "4a54be81a2e5ebec",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity/渲染架构对比.md",
+                "file": "Unity/Importer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity/渲染架构对比.md",
+                "file": "Unity/Importer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/渲染架构对比.md"
+                "file": "Unity/Importer.md"
               }
             }
           }
@@ -198,10 +198,13 @@
   },
   "active": "c68c5820c0e30c45",
   "lastOpenFiles": [
+    "Maya/设计思想.md",
+    "Unity/Importer.md",
+    "Unity/渲染架构对比.md",
+    "Maya",
+    "Unity/Unity Shader.md",
     "Unity/pic/Pasted image 20240823014117.png",
     "Unity/pic/Pasted image 20240823002115.png",
-    "Unity/Unity Shader.md",
-    "Unity/渲染架构对比.md",
     "Unity/pic/Pasted image 20240821094724.png",
     "Unity/attachment/UnityArchitecture.pdf",
     "Unity/pic/Pasted image 20240821002535.png",
@@ -211,7 +214,6 @@
     "Unity/pic/Pasted image 20240820230532.png",
     "Unity/pic/Pasted image 20240819220954.png",
     "Unity/pic/Pasted image 20240819220228.png",
-    "Unity/pic/Pasted image 20240819215612.png",
     "Unity/pic",
     "Unity/attachment",
     "渲染引擎.md",
