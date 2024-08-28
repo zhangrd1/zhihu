@@ -6,7 +6,7 @@
       {
         "id": "c177e0895f6c1f30",
         "type": "tabs",
-        "dimension": 16.142050040355127,
+        "dimension": 16.14205004035513,
         "children": [
           {
             "id": "b9effff51720bf3d",
@@ -166,42 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "floating": {
-    "id": "0b71356b09cd00eb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1ba0b18a79901068",
-        "type": "window",
-        "children": [
-          {
-            "id": "4d055375cddb225c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4a54be81a2e5ebec",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "渲染引擎/attachment/UnityArchitecture.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1572,
-        "y": 20,
-        "width": 604,
-        "height": 1072,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c68c5820c0e30c45",
+  "active": "00ff3563430d7cc8",
   "lastOpenFiles": [
     "渲染引擎/attachment/UnityArchitecture.pdf",
     "渲染引擎/渲染架构对比.md",
