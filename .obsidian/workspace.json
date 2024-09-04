@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渲染引擎/渲染架构对比.md"
+                "file": "Maya/设计思想.md"
               }
             },
             "group": "4e9a4dfdf6ee4598"
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "渲染引擎/渲染架构对比.md",
+                "file": "Maya/设计思想.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "渲染引擎/渲染架构对比.md",
+                "file": "Maya/设计思想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "渲染引擎/渲染架构对比.md",
+                "file": "Maya/设计思想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "渲染引擎/渲染架构对比.md"
+                "file": "Maya/设计思想.md"
               }
             }
           }
@@ -166,20 +166,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "00ff3563430d7cc8",
+  "active": "c68c5820c0e30c45",
   "lastOpenFiles": [
-    "渲染引擎/attachment/UnityArchitecture.pdf",
+    "Unity/Importer.md",
+    "Maya/设计思想.md",
     "渲染引擎/渲染架构对比.md",
-    "渲染引擎/pic/Pasted image 20240821094724.png",
-    "渲染引擎/pic/Pasted image 20240821002535.png",
-    "渲染引擎/pic/Pasted image 20240820234259.png",
-    "渲染引擎/pic/Pasted image 20240820233834.png",
-    "渲染引擎/pic/Pasted image 20240820230849.png",
-    "渲染引擎/pic/Pasted image 20240820230532.png",
-    "渲染引擎/pic/Pasted image 20240819220954.png",
-    "渲染引擎/pic/Pasted image 20240819220228.png",
-    "渲染引擎/pic/Pasted image 20240819215612.png",
-    "渲染引擎/pic/Pasted image 20240819104207.png",
+    "Unity/渲染架构对比.md",
+    "Unity/pic/Pasted image 20240823014117.png",
+    "Unity/pic/Pasted image 20240823002115.png",
+    "Unity/pic/Pasted image 20240821094724.png",
+    "Unity/pic/Pasted image 20240821002535.png",
+    "Unity/pic/Pasted image 20240820234259.png",
+    "Unity/pic/Pasted image 20240820233834.png",
+    "Unity/pic/Pasted image 20240820230849.png",
+    "Unity/pic/Pasted image 20240820230532.png",
+    "Unity/pic/Pasted image 20240819220954.png",
+    "Unity/pic/Pasted image 20240819220228.png",
+    "Unity/pic",
+    "Unity/attachment/UnityArchitecture.pdf",
+    "Unity/Unity Shader.md",
+    "Unity/attachment",
+    "Unity",
+    "Maya",
+    "渲染引擎/attachment/UnityArchitecture.pdf",
     "渲染引擎/pic",
     "渲染引擎/attachment",
     "渲染引擎.md",
