@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d968f7ab1332fb9a",
@@ -208,7 +208,6 @@
     "Unity/pic/Pasted image 20240823014117.png",
     "Unity/pic/Pasted image 20240823002115.png",
     "Unity/pic/Pasted image 20240821094724.png",
-    "Unity/attachment/UnityArchitecture.pdf",
     "Unity/pic/Pasted image 20240821002535.png",
     "Unity/pic/Pasted image 20240820234259.png",
     "Unity/pic/Pasted image 20240820233834.png",
@@ -217,9 +216,16 @@
     "Unity/pic/Pasted image 20240819220954.png",
     "Unity/pic/Pasted image 20240819220228.png",
     "Unity/pic",
+    "Unity/attachment/UnityArchitecture.pdf",
+    "Unity/Unity Shader.md",
     "Unity/attachment",
-    "渲染引擎.md",
     "Unity",
+    "Maya",
+    "渲染引擎/attachment/UnityArchitecture.pdf",
+    "渲染引擎/pic",
+    "渲染引擎/attachment",
+    "渲染引擎.md",
+    "渲染引擎",
     "欢迎.md"
   ]
 }
